@@ -1,2 +1,2 @@
 # ElegantHTTP
-"Lightweigt" Java Framework or configuring and maintaining a simple, but super elegant HTTP Server.
+"Lightweight" Java Framework or configuring and maintaining a simple, but super elegant HTTP Server.
